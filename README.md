@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon. I am a developer at (Encored Tech)[https://encoredtech.com], in Seoul, Korea.
+- 👋 Hi, I’m Simon. I am a developer at [Encored Tech](https://encoredtech.com), in Seoul, Korea.
 - 📫 How to reach me ... simonhlee97@hotmail.com
 
 <!---
