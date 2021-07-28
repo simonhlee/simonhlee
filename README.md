@@ -7,4 +7,7 @@
 
 - Data visualization (HighCharts.js)
 - DataTables
-- Helping the team maintain code and fix UI bugs and add new features
+- Helping the team maintain code and fix UI bugs / add new features
+- Learning our application's stack (Java Spring and jQuery)
+
+#### Feel free to visit my [homepage](https://simonhlee97.github.io/)
